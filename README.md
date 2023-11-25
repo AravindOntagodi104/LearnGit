@@ -12,6 +12,7 @@ Git Related commands
 - git commit --amend --no-edit
 
 - procedure to update the PR
+
   - git add file name
   - git commit --amend --no-edit
   - git push -f
